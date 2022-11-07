@@ -2,7 +2,6 @@
 
 ### _To see the project live:_
 
-#### Click here: [Healthy Bites](https://healthy-bites.tk/)
 
 <a href="https://imgflip.com/gif/4osqxb"><img width="600" height="350" src="https://i.imgflip.com/4osqxb.gif" title="made at impflip.com"/></a>
 ```
